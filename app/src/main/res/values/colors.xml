@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Emeris-inspired palette based on the supplied MyEmeris portal screenshot -->
+    <color name="primary">#2F566A</color>
+    <color name="primary_dark">#234556</color>
+    <color name="primary_container">#DCE8ED</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_container">#173746</color>
+    <color name="secondary">#A8C85A</color>
+    <color name="secondary_container">#EAF3D0</color>
+    <color name="on_secondary_container">#27380B</color>
+
+    <color name="background">#F5F7F8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#E9EEF1</color>
+    <color name="surface_container">#EEF2F4</color>
+    <color name="on_surface">#1C252A</color>
+    <color name="on_surface_variant">#53636B</color>
+    <color name="outline">#71828A</color>
+    <color name="outline_variant">#CBD5DA</color>
+
+    <color name="priority_high_bg">#FCE8E6</color>
+    <color name="priority_high_text">#A12A22</color>
+    <color name="priority_medium_bg">#FFF1D6</color>
+    <color name="priority_medium_text">#7A4B00</color>
+    <color name="priority_low_bg">#EAF3D0</color>
+    <color name="priority_low_text">#36520E</color>
+    <color name="success_bg">#E4F1D0</color>
+    <color name="success_text">#34520B</color>
+    <color name="danger">#B3261E</color>
+    <color name="warning">#9A5A00</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

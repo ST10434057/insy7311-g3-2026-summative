@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="task_categories">
+        <item>ICE Task</item>
+        <item>Assessment</item>
+        <item>Test</item>
+        <item>Summative Assessment</item>
+        <item>Exam</item>
+    </string-array>
+    <string-array name="task_difficulties">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="task_sort_options">
+        <item>Priority</item>
+        <item>Due date</item>
+        <item>Module</item>
+    </string-array>
+</resources>
